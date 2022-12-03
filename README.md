@@ -48,9 +48,9 @@ Let me introduce you about myself, my name is Kazuya(Not Real); 16y.o from NCR(D
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/X_E_N_0_X)
 
 ## My Stats
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=kazuya07&show_icons=true&theme=radical)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=kazuyakun07&show_icons=true&theme=radical)
 
-[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuya07&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/kazuya07)
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuya07&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/kazuyakun07)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=kazuya07)
+![](https://visitor-badge.laobi.icu/badge?page_id=kazuyakun07)
 
