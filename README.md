@@ -1,3 +1,6 @@
+
+![kazuya](https://telegra.ph/file/31790cf0d13bda9173a66.jpg)
+
 ## Hello There :wave:, Welcome to my GitHub profile.
 
 Let me introduce you about myself, my name is Kazuya(Not Real); 16y.o from NCR(Delhi), India.
