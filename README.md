@@ -41,9 +41,6 @@ Let me introduce you about myself, my name is Kazuya(Not Real); 16y.o from NCR(D
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-Zaid&repo=Banall&cache_seconds=86400&theme=gotham">
 </a>
 
-<a href="https://github.com/Godfatherakkii/DEADLY-SPAMBOT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Godfatherakkii&repo=DEADLY-SPAMBOT&cache_seconds=86400&theme=gotham">
-</a>
 
 ## How You Can Find Meh And Where!
 
