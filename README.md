@@ -21,8 +21,8 @@ Let me introduce you about myself, my name is Kazuya(Not Real); 16y.o from NCR(D
 
 
 
-<a href="https://github.com/Itz-Zaid/Zaid-Vc-Player">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-Zaid&repo=Zaid-Vc-Player&cache_seconds=86400&theme=gotham">
+<a href="https://github.com/kazuyakun07/miku-nakano-robot-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kazuyakun07&repo=miku-nakano-robot-2&cache_seconds=86400&theme=gotham">
 </a>
 
 <a href="https://github.com/Itz-Zaid/Video-Player">
