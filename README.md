@@ -50,7 +50,7 @@ Let me introduce you about myself, my name is Kazuya(Not Real); 16y.o from NCR(D
 ## My Stats
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=kazuya07&show_icons=true&theme=radical)
 
-[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuya07&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/ITZ-ZAID)
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuya07&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/kazuya07)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=kazuya07)
 
