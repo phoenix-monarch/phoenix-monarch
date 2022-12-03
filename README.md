@@ -15,8 +15,8 @@ Let me introduce you about myself, my name is Kazuya(Not Real); 16y.o from NCR(D
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kazuyakun07&repo=movies-clann&cache_seconds=86400&theme=gotham">
 </a>
 
-<a href="https://github.com/ITZ-ZAID/Telethon-Music">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=Telethon-Music&cache_seconds=86400&theme=gotham">
+<a href="https://github.com/kazuyakun07/AnimeeEZ">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kazuyakun07&repo=AnimeeEZ&cache_seconds=86400&theme=gotham">
 </a>
 
 
