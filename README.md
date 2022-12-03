@@ -1,5 +1,5 @@
 
-![kazuya](https://telegra.ph/file/ceee2df87c48fa9916a0b.jpg)
+![kazuya](https://telegra.ph/file/0924d76bdcf331cecc26e.jpg)
 
 ## Hello There :wave:, Welcome to my GitHub profile.
 
