@@ -1,6 +1,6 @@
 ## Hello There :wave:, Welcome to my GitHub profile.
 
-Let me introduce you about myself, my name is Zaid(Not Real); 17y.o from NCR(Delhi), India.
+Let me introduce you about myself, my name is Kazuya(Not Real); 16y.o from NCR(Delhi), India.
 
 
 
@@ -11,8 +11,8 @@ Let me introduce you about myself, my name is Zaid(Not Real); 17y.o from NCR(Del
 
 # Some Projects
 
-<a href="https://github.com/ITZ-ZAID/ZAID-USERBOT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=ZAID-USERBOT&cache_seconds=86400&theme=gotham">
+<a href="https://kazuyakun07.github.io/movies-clann/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kazuyakun07&repo=movies-clann&cache_seconds=86400&theme=gotham">
 </a>
 
 <a href="https://github.com/ITZ-ZAID/Telethon-Music">
@@ -45,12 +45,12 @@ Let me introduce you about myself, my name is Zaid(Not Real); 17y.o from NCR(Del
 ## How You Can Find Meh And Where!
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ITZ-ZAID)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Timesisnotwaiting)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/X_E_N_0_X)
 
 ## My Stats
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=ITZ-ZAID&show_icons=true&theme=radical)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=kazuya07&show_icons=true&theme=radical)
 
-[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ITZ-ZAID&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/ITZ-ZAID)
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuya07&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/ITZ-ZAID)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=ITZ-ZAID)
+![](https://visitor-badge.laobi.icu/badge?page_id=kazuya07)
 
