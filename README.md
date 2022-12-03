@@ -44,7 +44,7 @@ Let me introduce you about myself, my name is Kazuya(Not Real); 16y.o from NCR(D
 
 ## How You Can Find Meh And Where!
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ITZ-ZAID)
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/kazuyakun07)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/X_E_N_0_X)
 
 ## My Stats
