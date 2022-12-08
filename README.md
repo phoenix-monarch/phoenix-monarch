@@ -24,32 +24,17 @@ Let me introduce you about myself, my name is Kazuya(Not Real); 16y.o from NCR(D
 
 
 
-<a href="https://github.com/ITZ-KAZUYA/miku-nakano-robot-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ITZ-KAZUYA&repo=miku-nakano-robot-2&cache_seconds=86400&theme=gotham">
-</a>
-
-<a href="https://github.com/Itz-Zaid/Video-Player">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-Zaid&repo=Video-Player&cache_seconds=86400&theme=gotham">
-</a>
-
-
-<a href="https://github.com/Itz-Zaid/Telegram">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-Zaid&repo=Telegram&cache_seconds=86400&theme=gotham">
-</a>
-
-<a href="https://github.com/Itz-Zaid/Banall">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-Zaid&repo=Banall&cache_seconds=86400&theme=gotham">
-</a>
 
 
 ## How You Can Find Meh And Where!
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ITZ-KAZUYA)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/X_E_N_0_X)
+ 
 
-**Stats:**  
+### GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ITZ-KAZUYA&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
+  <img alt="KAZUYA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ITZ-KAZUYA&show_icons=true" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITZ-KAZUYA&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
 
