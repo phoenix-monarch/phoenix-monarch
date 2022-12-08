@@ -44,8 +44,5 @@ Let me introduce you about myself, my name is Kazuya(Not Real); 16y.o from NCR(D
 
 ![kazuya](https://visitor-badge.laobi.icu/badge?page_id=ITZ-KAZUYA)
 
-[![website](./img/twitter-light.svg)](https://twitter.com/immdipu#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/immdipu#gh-dark-mode-only) 
-[![website](./img/instagram-light.svg)](https://www.instagram.com/immdipu/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/immdipu/#gh-dark-mode-only)
+
 
