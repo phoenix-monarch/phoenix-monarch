@@ -36,7 +36,9 @@ Let me introduce you about myself, my name is Kazuya(Not Real); 16y.o from NCR(D
 
   <img alt="KAZUYA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ITZ-KAZUYA&show_icons=true" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITZ-KAZUYA&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
+### Top Language
+
+  <img alt="KAZUYA's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITZ-KAZUYA&langs_count=8" />
 
 
 
