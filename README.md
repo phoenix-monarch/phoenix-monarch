@@ -15,11 +15,11 @@ Let me introduce you about myself, my name is Kazuya(Not Real); 16y.o from NCR(D
 # Some Projects
 
 <a href="https://ITZ-KAZUYA.github.io/movies-clann/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kazuyakun07&repo=movies-clann&cache_seconds=86400&theme=gotham">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ITZ-KAZUYA&repo=movies-clann&cache_seconds=86400&theme=gotham">
 </a>
 
 <a href="https://github.com/ITZ-KAZUYA/AnimeeEZ">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kazuyakun07&repo=AnimeeEZ&cache_seconds=86400&theme=gotham">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ITZ-KAZUYA&repo=AnimeeEZ&cache_seconds=86400&theme=gotham">
 </a>
 
 
