@@ -22,7 +22,9 @@ Let me introduce you about myself, my name is Kazuya(Not Real); 16y.o from NCR(D
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ITZ-KAZUYA&repo=AnimeeEZ&cache_seconds=86400&theme=gotham">
 </a>
 
-
+<a href="https://github.com/ITZ-KAZUYA/AI-ROBOT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ITZ-KAZUYA&repo=AI-ROBOT&cache_seconds=86400&theme=gotham">
+</a>
 
 
 
