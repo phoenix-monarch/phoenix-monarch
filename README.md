@@ -45,6 +45,10 @@ Let me introduce you about myself, my name is Kazuya(Not Real); 16y.o from NCR(D
 ![kazuya kun's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=ITZ-KAZUYA&theme=tokyonight)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ITZ-KAZUYA&label=Profile%20Views&color=orange&style=flat-square" alt="KENEKI SENPAI" /> </p>
 
+## 🌐 **Top Languages**
+
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ITZ-KAZUYA&show_icons=true&theme=radical&layout=compact)](https://github.com/Scroxy-X)
+
 ![kazuya](https://visitor-badge.laobi.icu/badge?page_id=ITZ-KAZUYA)
 
 
