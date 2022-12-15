@@ -30,6 +30,10 @@ Let me introduce you about myself, my name is Kazuya(Not Real); 16y.o from NCR(D
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ITZ-KAZUYA&repo=AnimeTV&cache_seconds=86400&theme=gotham">
 </a>
 
+<a href="https://github.com/ITZ-KAZUYA/Anime-clan">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ITZ-KAZUYA&repo=Anime-clan&cache_seconds=86400&theme=gotham">
+</a>
+
 ## How You Can Find Meh And Where!
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ITZ-KAZUYA)
