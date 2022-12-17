@@ -93,6 +93,7 @@ class ᴋᴧᴢυʏα ():
 [<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/ITZ-KAZUYA)
 
 
-
+NEKO_STICKERS = (
+    "CAACAgUAAxkBAAIIW2NL5v9F9hUom4xmsgNYb63SEfZZAAIZBgACYAF5VIerYoMcSln8KgQ",
 
 
