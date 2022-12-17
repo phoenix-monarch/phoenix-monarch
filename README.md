@@ -60,7 +60,7 @@ class ᴋᴧᴢυʏα ():
         ]
     def Owned Organizations(self):
         return [
-            'Astor'
+            'psycho'
         ]
  ```
  [<img src="https://github.com/itz-kazuya/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/ITZ-KAZUYA)
