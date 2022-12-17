@@ -7,7 +7,6 @@
 
 [<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/spryslade)
 
-<p align="center">
 # Some Projects
 
 <a href="https://ITZ-KAZUYA.github.io/movies-clann/">
