@@ -54,8 +54,7 @@ Let me introduce you about myself, my name is Kazuya(Not Real); 16y.o from NCR(D
 
 <p align="center"><a href="https://github.com/ITZ-KAZUYA"><img src="https://github-readme-stats.vercel.app/api?username=ITZ-KAZUYA&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/ITZ-KAZUYA"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITZ-KAZUYA&theme=radical&layout=compact"></a></p> 
-
-
+</a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itz-kazuya&" alt="itz-kazuya
 ### Mari terhubung!
 <p>
