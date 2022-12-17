@@ -93,6 +93,6 @@ class ᴋᴧᴢυʏα ():
 [<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/ITZ-KAZUYA)
 
 
-![kazuya](AnimatedSticker.tgs)
+## <img src="https://user-images.githubusercontent.com/CAACAgEAAxkBAAENsf1jnfvL3qh0EmkcoQABJfpCdHBgohEAAn0AA8CsCCMGBkWpioLI2CwE.gif" width="28px"> Oi, Oi, Oi ✷⁠‿⁠✷ [KAC's Here](https://github.com/KAC-CHAN) !!!
 
 
