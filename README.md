@@ -1,22 +1,8 @@
 
 ![kazuya](https://telegra.ph/file/b73a8b9398c205581cd59.jpg)
-
-### Connect with me:
-[<img align="left" alt="Ihsan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Ihsan | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-<br />
-
-<br />
-## Hello There :wave:, Welcome to my GitHub profile.
-
-Let me introduce you about myself, my name is Kazuya(Not Real); 16y.o from NCR(Delhi), India.
-
-
-
-## Which Language I'm Using /Learning:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<p align="center">
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+       <img align="middle" src="https://profile-counter.glitch.me/spryslade/count.svg" />
 
 # Some Projects
 
