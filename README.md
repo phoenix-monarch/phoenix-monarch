@@ -66,6 +66,8 @@ class ᴋᴧᴢυʏα ():
         ]
  ```
  [<img src="https://github.com/itz-kazuya/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/ITZ-KAZUYA)
+
+[<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/ITZ-KAZUYA)
    
 <h1> <href = "https://github.com/ITZ-KAZUYA/slade-Git-Readme/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
@@ -87,7 +89,7 @@ class ᴋᴧᴢυʏα ():
 <a href="https://open.spotify.com/user/dfrjnf1uxpkfzb2yes1mj9sqx?si=pVC68Dc_Sn2xtUU52YNMuw&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
-
+[<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/ITZ-KAZUYA)
 
 
 
