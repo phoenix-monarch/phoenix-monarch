@@ -93,6 +93,6 @@ class ᴋᴧᴢυʏα ():
 [<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/ITZ-KAZUYA)
 
 
-![kazuya](CAACAgEAAxkBAAENsf1jnfvL3qh0EmkcoQABJfpCdHBgohEAAn0AA8CsCCMGBkWpioLI2CwE)
+
 
 
