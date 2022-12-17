@@ -3,6 +3,9 @@
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
        <img align="middle" src="https://profile-counter.glitch.me/spryslade/count.svg" />
+</p>
+
+[<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/spryslade)
 
 # Some Projects
 
