@@ -1,5 +1,5 @@
 
-![kazuya](https://telegra.ph/file/b73a8b9398c205581cd59.jpg)
+![kazuya](https://telegra.ph/file/d5101bc31caa7d55d1b0e.jpg)
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
        <img align="middle" src="https://profile-counter.glitch.me/spryslade/count.svg" />
