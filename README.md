@@ -56,12 +56,8 @@ Let me introduce you about myself, my name is Kazuya(Not Real); 16y.o from NCR(D
 </a>
 
 
-![kazuya kun's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=ITZ-KAZUYA&theme=tokyonight)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ITZ-KAZUYA&label=Profile%20Views&color=orange&style=flat-square" alt="KENEKI SENPAI" /> </p>
-
-## 🌐 **Top Languages**
-
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ITZ-KAZUYA&show_icons=true&theme=radical&layout=compact)](https://github.com/Scroxy-X)
+<p align="center"><a href="https://github.com/ITZ-KAZUYA"><img src="https://github-readme-stats.vercel.app/api?username=ITZ-KAZUYA&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/ITZ-KAZUYA"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITZ-KAZUYA&theme=radical&layout=compact"></a></p> 
 
 ![kazuya](https://visitor-badge.laobi.icu/badge?page_id=ITZ-KAZUYA)
 
@@ -71,6 +67,5 @@ Let me introduce you about myself, my name is Kazuya(Not Real); 16y.o from NCR(D
 <br />
 
 
-[instagram]: https://instagram.com/x.e.n.o.x
-[telegram]: https://t.me/kazuya_sensei
+
 
