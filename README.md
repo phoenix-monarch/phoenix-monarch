@@ -63,7 +63,7 @@ class ᴋᴧᴢυʏα ():
             'Astor'
         ]
  ```
- [<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/ITZ-KAZUYA)
+ [<img src="https://github.com/itz-kazuya/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/ITZ-KAZUYA)
    
 <h1> <href = "https://github.com/ITZ-KAZUYA/Slade-Git-Readme/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
