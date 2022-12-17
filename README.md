@@ -1,5 +1,6 @@
 
 ![kazuya](https://telegra.ph/file/d5101bc31caa7d55d1b0e.jpg)
+
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
        <img align="middle" src="https://profile-counter.glitch.me/spryslade/count.svg" />
@@ -92,6 +93,6 @@ class ᴋᴧᴢυʏα ():
 [<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/ITZ-KAZUYA)
 
 
-
+![kazuya](CAACAgEAAxkBAAENsf1jnfvL3qh0EmkcoQABJfpCdHBgohEAAn0AA8CsCCMGBkWpioLI2CwE)
 
 
