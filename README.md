@@ -33,6 +33,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ITZ-KAZUYA&repo=music-player&cache_seconds=86400&theme=gotham">
 </a>
 
+ <img align="middle" src="https://profile-counter.glitch.me/spryslade/count.svg" />
+
 <h1> <href="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/anon.webp" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
