@@ -6,9 +6,6 @@
 [<img align="left" alt="Ihsan | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 <br />
 
-[instagram] https
-[telegram] https
-
 <br />
 ## Hello There :wave:, Welcome to my GitHub profile.
 
