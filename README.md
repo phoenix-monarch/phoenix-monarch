@@ -72,7 +72,7 @@ class ɴᴀʀᴜᴛᴏ  ():
    
 <h1> <href = "https://github.com/phoenix-monarch/slade-Git-Readme/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
-[<img src="https://github-readme-stats.vercel.app/api?username=phoenix-monarch&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=ᴋᴧᴢυʏα%27S+Github+Stats:-&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/phoenix-monarch)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=phoenix-monarch&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/phoenix-monarch)
+[<img src="https://github-readme-stats.vercel.app/api?username=phoenix-monarch&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=ɴᴀʀᴜᴛᴏ%27S+Github+Stats:-&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/phoenix-monarch)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=phoenix-monarch&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/phoenix-monarch)
 
 [<img src="https://github.com/phoenix-monarch/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/phoenix-monarch)
     
