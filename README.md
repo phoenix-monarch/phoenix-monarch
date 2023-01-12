@@ -79,7 +79,7 @@ class ɴᴀʀᴜᴛᴏ  ():
 [![Instagram](https://img.shields.io/badge/Instagram-Maroon?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/x.e.n.o.x)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kazuya_sensei)
 </a>
-  <a href="https://in.pinterest.com/ishikki_akabane/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" /></a>
+  <a href="https://in.pinterest.com/naruto_uzumakiii/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" /></a>
   
 [<img src="https://github.com/phoenix-monarch/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/phoenix-monarch)
 
