@@ -18,8 +18,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=phoenix-monarch&repo=AnimeeEZ&cache_seconds=86400&theme=gotham">
 </a>
 
-<a href="https://github.com/phoenix-monarch/AI-ROBOT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phoenix-monarch&repo=AI-ROBOT&cache_seconds=86400&theme=gotham">
+<a href="https://github.com/phoenix-monarch/AnimeCafeZ">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phoenix-monarch&repo=animecafeZ&cache_seconds=86400&theme=gotham">
 </a>
 
 <a href="https://github.com/phoenix-monarch/AnimeTV">
