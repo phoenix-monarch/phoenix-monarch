@@ -1,5 +1,5 @@
 
-![naruto uzumaki](https://telegra.ph/file/d5101bc31caa7d55d1b0e.jpg)
+![naruto uzumaki](https://telegra.ph/file/d3e494db6595059d947cb.jpg)
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
