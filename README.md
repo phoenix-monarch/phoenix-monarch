@@ -41,7 +41,7 @@
 ```python3
 class ɴᴀʀᴜᴛᴏ  ():
     def __init__(self):
-        self.name = ['ɴᴀʀᴜᴛᴏ ᴜᴢᴜᴍᴀᴋɪ']
+        self.name = ['ʀʏᴜᴋ']
         self.country = ['India']
         self.language = ['हिंदी', 'English']
     def programming_languages(self):
