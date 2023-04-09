@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=phoenix-monarch&repo=AnimeTV&cache_seconds=86400&theme=gotham">
 </a>
 
-<a href="https://github.com/phoenix-monarch/Anime-clan">
+<a href="https://github.com/phoenix-monarch/movie-clann">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=phoenix-monarch&repo=Anime-clan&cache_seconds=86400&theme=gotham">
 </a>
 
