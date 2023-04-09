@@ -104,7 +104,7 @@ class ryuk  ():
 
 
 ```python
-Name = "Krishna Kumar"
+Name = "ᴅᴏᴇs ɪᴛ ᴍᴀᴛᴛᴇʀ? "
 Class = "12th"
 Age = "17"
 Country = "🇮🇳"
@@ -117,13 +117,13 @@ Country = "🇮🇳"
 <br>
 
 ----
-![GitHub followers](https://img.shields.io/github/followers/LEGEND-AI?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=LEGEND-AI.LEGEND-AI)
-[![Profile views](https://komarev.com/ghpvc/?username=LEGEND-AI&label=Profile%20views)](https://github.com/LEGEND-AI)
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=LEGEND-AI)
+![GitHub followers](https://img.shields.io/github/followers/phoenix-monarch?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=phoenix-monarch.phoenix-monarch)
+[![Profile views](https://komarev.com/ghpvc/?username=phoenix-monarch&label=Profile%20views)](https://github.com/phoenix-monarch)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=phoenix-monarch)
   
-<a href="https://github-readme-stats.vercel.app/api?username=LEGEND-AI&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
-    <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=LEGEND-AI&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
+<a href="https://github-readme-stats.vercel.app/api?username=phoenix-monarch&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
+    <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=phoenix-monarch&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
 
 </a>
 </b></h2>  
@@ -134,8 +134,8 @@ Country = "🇮🇳"
 <h2 align="center"><b>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐
 <br>
 <br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LEGEND-AI&layout=compact&theme=midnight-purple&hide=Css">
-    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEGEND-AI&layout=compact&theme=midnight-purple&hide=Css" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-monarch&layout=compact&theme=midnight-purple&hide=Css">
+    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-monarch&layout=compact&theme=midnight-purple&hide=Css" />
 </a>
 </b></h2>  
 </details>
@@ -147,7 +147,7 @@ Country = "🇮🇳"
   <br>
   
   
-[![Gmail](https://img.shields.io/badge/Gmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=Green)](Krishna045Jaiswal@gmail.com)</b></h2>
+[![Telegram](https://img.shields.io/badge/Gmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=Green)](t.me/xenxd)</b></h2>
 </details>
 
 
@@ -158,8 +158,8 @@ Country = "🇮🇳"
   <br>
   <br>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/LegendBoy_XD) [!
-[![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/LegendBoy_XD) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LegendBoy_XD) [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/LegendBoy_XD)  [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://repl.it/@KrishnaJaiswal1)</b></h2> 
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/x.e.n.o.x) [!
+[![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/xenxd) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/)  [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://repl.it/@)</b></h2> 
 </details>
 <details>
 <summary>⠂𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎⠐</summary>
