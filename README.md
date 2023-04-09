@@ -77,7 +77,7 @@ class ryuk  ():
 <a href="https://open.spotify.com/user/dfrjnf1uxpkfzb2yes1mj9sqx?si=F7PO8_ALQrK5tTFp5Adskg&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="" srcset=""></a>
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/phoenix-monarch)
 [![Instagram](https://img.shields.io/badge/Instagram-Maroon?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/x.e.n.o.x)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/miyuki_senpai)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xenxd)
 </a>
   <a href="https://in.pinterest.com/bloody_mikey/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" /></a>
   
