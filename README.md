@@ -147,7 +147,7 @@ Country = "🇮🇳"
   <br>
   
   
-[![Telegram](https://img.shields.io/badge/Gmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=Green)](t.me/xenxd)</b></h2>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mikey_7x)
 </details>
 
 
