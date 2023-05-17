@@ -39,9 +39,9 @@
 <h1> <href="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/anon.webp" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
-class ryuk  ():
+class flash  ():
     def __init__(self):
-        self.name = ['ʀʏᴜᴋ']
+        self.name = ['F L A S H']
         self.country = ['India']
         self.language = ['हिंदी', 'English']
     def programming_languages(self):
