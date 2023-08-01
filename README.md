@@ -1,6 +1,6 @@
 [<img src="https://github.com/TeamKazukai/TeamKazukai/blob/master/resources/hr.gif"/>](https://github.com/TeamKazukai/TeamKazukai)
 
-<h1> <img src="https://telegra.ph/file/95476a6fc7abd0231db4d.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴋᴀᴢᴜᴋᴀɪ </h1>
+<h1> <img src="https://telegra.ph/file/95476a6fc7abd0231db4d.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴢєɴσꭙ </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/AnonymousX1025/count.svg" />
