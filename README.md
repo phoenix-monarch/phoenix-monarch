@@ -1,47 +1,25 @@
+[<img src="https://github.com/TeamKazukai/TeamKazukai/blob/master/resources/hr.gif"/>](https://github.com/TeamKazukai/TeamKazukai)
 
-![zenox](https://telegra.ph/file/25a38b6ca1711a474632d.jpg)
-
+<h1> <img src="https://telegra.ph/file/95476a6fc7abd0231db4d.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴋᴀᴢᴜᴋᴀɪ </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
-       <img align="middle" src="https://profile-counter.glitch.me/spryslade/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/AnonymousX1025/count.svg" />
 </p>
 
-[<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/phoenix-monarch)
+[<img src="https://github.com/TeamKazukai/TeamKazukai/blob/master/resources/hr.gif"/>](https://github.com/TeamKazukai/TeamKazukai)
 
-# Some Projects
+<p align="center">
+<img src="https://telegra.ph/file/5bf03c49ed5aebadcbf4f.jpg">
+</p>
 
-<a href="https://phoenix-monarch.github.io/movies-clann/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phoenix-monarch&repo=movies-clann&cache_seconds=86400&theme=gotham">
-</a>
+[<img src="https://raw.githubusercontent.com/TeamKazukai/TeamKazukai/master/resources/hr.gif"/>](https://github.com/TeamKazukai/TeamKazukai)
 
-<a href="https://github.com/phoenix-monarch/AnimeeEZ">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phoenix-monarch&repo=AnimeeEZ&cache_seconds=86400&theme=gotham">
-</a>
-
-<a href="https://github.com/phoenix-monarch/AnimeCafeZ">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phoenix-monarch&repo=animecafeZ&cache_seconds=86400&theme=gotham">
-</a>
-
-<a href="https://github.com/phoenix-monarch/AnimeTV">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phoenix-monarch&repo=AnimeTV&cache_seconds=86400&theme=gotham">
-</a>
-
-<a href="https://github.com/phoenix-monarch/movie-clann">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phoenix-monarch&repo=Anime-clan&cache_seconds=86400&theme=gotham">
-</a>
-
-<a href="https://github.com/phoenix-monarch/music-player">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=phoenix-monarch&repo=music-player&cache_seconds=86400&theme=gotham">
-</a>
-
-[<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/phoenix-monarch)
-
-<h1> <href="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/anon.webp" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
+<h1> <img src="https://telegra.ph/file/c65b81d75724d6fee2bd1.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
-class flash  ():
+class ZenoX ():
     def __init__(self):
-        self.name = ['F L A S H']
+        self.name = ['zenoX]
         self.country = ['India']
         self.language = ['हिंदी', 'English']
     def programming_languages(self):
@@ -54,42 +32,34 @@ class flash  ():
         ]
     def developer_tools(self):
         return [
-            'GitHub', 'Stack Overflow', 'Docker','Heroku',
+            'GitHub', 'Stack Overflow', 'Docker', 'Heroku',
             'MongoDB', 'MySQL', 'Azure'
         ]
     def operating_system(self):
         return [
-            'Windows', 'Android'
+            'Windows', 'Android', 'Linux'
         ]
  ```
- [<img src="https://github.com/phoenix-monarch/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/phoenix-monarch)
 
-[<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/phoenix-monarch)
-   
-<h1> <href = "https://github.com/phoenix-monarch/slade-Git-Readme/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
+[<img src="https://github.com/TeamKazukai/TeamKazukai/blob/master/resources/hr.gif"/>](https://github.com/TeamKazukai/TeamKazukai)
 
-[<img src="https://github-readme-stats.vercel.app/api?username=phoenix-monarch&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=ɴᴀʀᴜᴛᴏ%27S+Github+Stats:-&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/phoenix-monarch)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=phoenix-monarch&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/phoenix-monarch)
+<h1> <img src="https://github.com/TeamKazukai/TeamKazukai/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
-[<img src="https://github.com/phoenix-monarch/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/phoenix-monarch)
-    
-<h1> <href="https://github.com/phoenix-monarch/Slade-Git-Readme/blob/master/resources/anon.webp" width="55px">  ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ</h1>
-    
-<a href="https://open.spotify.com/user/dfrjnf1uxpkfzb2yes1mj9sqx?si=F7PO8_ALQrK5tTFp5Adskg&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="" srcset=""></a>
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/phoenix-monarch)
-[![Instagram](https://img.shields.io/badge/Instagram-Maroon?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/x.e.n.o.x)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xenxd)
-</a>
-  <a href="https://in.pinterest.com/bloody_mikey/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" /></a>
-  
-[<img src="https://github.com/phoenix-monarch/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/phoenix-monarch)
+[<img src="https://github-readme-stats.vercel.app/api?username=AnonymousX1025&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/TeamKazukai)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnonymousX1025&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/TeamKazukai)
 
-<h1> <href="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/anon.webp" width="55px">  sᴘᴏᴛɪғʏ</h1>
-    
-<a href="https://open.spotify.com/user/dfrjnf1uxpkfzb2yes1mj9sqx?si=pVC68Dc_Sn2xtUU52YNMuw&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
+[<img src="https://github.com/TeamKazukai/TeamKazukai/blob/master/resources/hr.gif"/>](https://github.com/TeamKazukai)
 
-[<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/phoenix-monarch)
+<h1> <img src="https://te.legra.ph/file/274cef853f5f608a83a16.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
+[<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/telegram_icon.png" width="60px">](https://t.me/teamkazukai) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/github_icon.png" width="60px">](https://github.com/TeamKazukai/) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/youtube_icon.png" width="60px">](https://www.youtube.com/#) [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/x.e.n.o.x)
+
+[<img src="https://github.com/TeamKazukai/TeamKazukai/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
+
+<h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
+
+[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Kazukai Spotify" width="75%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
+
+[<img src="https://github.com/TeamKazukai/TeamKazukai/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
 
 <h2 align="center"><b>Personal Information 👨‍💻</b></h2>
 
